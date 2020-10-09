@@ -1,3 +1,3 @@
 # Quantum Computing
 
-First 3 programs in Q#
+First 3 programs for Quantum Computing
